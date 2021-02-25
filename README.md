@@ -1,1 +1,1 @@
-# faninmall
+# fannmail
